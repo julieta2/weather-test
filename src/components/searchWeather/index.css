@@ -1,0 +1,13 @@
+.search-weather {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+}
+.city-name{
+    font-size: 20px;
+}
+.search-weather input {
+    padding: 5px;
+    height: 25px;
+}
